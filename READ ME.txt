@@ -1,0 +1,8 @@
+1- Controls --> UP(W)
+	      --> DOWEN(S)
+	      --> LEFT(A)	
+	      --> RIGHT(D)
+		--> Fire(Left click on Mouse)
+
+2- Our Spaceship Have To Avoid Some Traps And 
+   Destroy Some Till It Reaches The End And Win.
